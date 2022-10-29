@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.manchester.ac.uk	TRUE	/	FALSE	1999999999	PPSESSION	q7alo42flrja9iuvg39aun5g21
+www.manchester.ac.uk	TRUE	/	FALSE	1999999999	samesite	lax
+.bing.com	TRUE	/	FALSE	1999999999	MUID	36AA5E8B85D262AF10E94CC284606306
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+

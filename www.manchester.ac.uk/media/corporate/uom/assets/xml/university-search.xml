@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>University of Manchester</ShortName>
+	<Description>Search The University of Manchester website</Description>
+	<Url template="http://www.manchester.ac.uk/search/?q={searchTerms}" type="text/html" method="GET"/>
+	<Tags>manchester university uni uk gb search</Tags>
+	<Contact>webteam@manchester.ac.uk</Contact>
+	<Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAAABMLAAATCwAAAAAAAAAAAACVAGGUAGCUAGCUAGCWAGOXAmSXAmSWAGKWAGKXAmSXAmSWAGKUAGCUAGCUAGCVAGClJ3unLX6lJ3qqMoKbDWuWAmOWAmOZCWiZCGiWAmOWAmKgG3SpMoGkJXmlJnqnLH6rP4XcrM316fLAaqOdFG2WAWKRAFvSlb7NibeRAFuVAWGlK3vIfbD58vf16vK5WJmPAFe0SpDguNSPAFiWAGKVAGGcEGz48fb37PSYCWeWAGKUAF+UAGDx3+zs0uORAFyUAF+rNIPesc+UAF+XAWSRAFrCbKb////oy+C7XJyRAFuWAGKZCWj05/DjvdeTAF6VAGCkI3jguNSXA2WVAGGWBGTw3erpy9+oL4Dhu9aVAmGUAGCdE2/8+fvcrMySAF2VAGGfF3HivtebDWuQAFq0S5H///+6WZqNAFXaqcuxQouQAFqiH3b////Vm8KRAFyWAGKcD2zlxNufF3GRAFzlw9r26/OaDWqQAFq0SpHaqMqPAFenKnz////PireRAFuWAGOZCGjlwtqgGXKmKHz////JfrCRAFqWAGOYB2XhutagGnKpLn/////Ieq6RAFqXAGOWAmPjvNaiIHbUmsH+/P2iHXWUAGCXAmSRAFvAaqTIfK+pMID////AaaSRAFuXAWSUAF/dr865WJn69PjYosaRAFyXAWSXAmSVAGGeFm/es9G6W5v///+6WZmSAFyXAmSTAF7Wn8TpzeH///+qMoOSAF2XAmSXAmSXAmSRAFrIe6/oy+D///+zSZCSAFyWAGKPAFjaqMr////kwNmUAWCWAWOXAmSXAmSXAmSUAF+iH3b8+fv///+vP4mQAFigHHO9ZaDkwdnu2OezSI+SAFyXAmSXAmSXAmSXAmSXAmSSAFzMhrXu2ejSlr+xSYyaCWigGHKbDGqZCGiWAGKXAmSXAmSXAmSXAmSXAmSXAmSXAmOWAWOZCGidEm6eFHCXAWOWAGKWAGKWAGKXAWSXAmSXAmSXAmSXAmSXAmSXAmSXAmSWAWOWAGKWAGKWAGMAAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//</Image>
+	<Query role="example" searchTerms="university"/>
+	<Developer>The University of Manchester Web Team</Developer>
+	<Attribution>Search data copyright The University of Manchester</Attribution>
+	<SyndicationRight>limited</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>en-gb</Language>
+	<InputEncoding>UTF-8</InputEncoding>
+	<OutputEncoding>UTF-8</OutputEncoding>
+</OpenSearchDescription>
